@@ -1,0 +1,10 @@
+﻿  Job.cpp
+C:\Users\gpro\Desktop\cppMyDatetask2-master\labagitelmanoop\Job.cpp(10,10): warning C4101: boof: неиспользованная локальная переменная
+  Main.cpp
+  MyDate.cpp
+C:\Users\gpro\Desktop\cppMyDatetask2-master\labagitelmanoop\MyDate.cpp(160,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gpro\Desktop\cppMyDatetask2-master\labagitelmanoop\MyDate.cpp(168,10): warning C4018: <: несоответствие типов со знаком и без знака
+  Table.cpp
+  vec.cpp
+  Создание кода...
+  labagitelmanoop.vcxproj -> C:\Users\gpro\Desktop\cppMyDatetask2-master\Debug\labagitelmanoop.exe
